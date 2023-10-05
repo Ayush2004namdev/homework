@@ -51,8 +51,14 @@ button{
 }
 
 .left i{
+    color: white;
     margin-top: 20px;
     font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.left i:hover{
+    color: #DCA038;
 }
 
 .left h2{
